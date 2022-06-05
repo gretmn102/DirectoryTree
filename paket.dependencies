@@ -1,0 +1,8 @@
+source https://api.nuget.org/v3/index.json
+
+storage: none
+framework: net6.0, net5.0, netcoreapp3.1
+
+source https://gitlab.com/api/v4/projects/28574921/packages/nuget/index.json
+storage: none
+nuget FSharpMyExt
